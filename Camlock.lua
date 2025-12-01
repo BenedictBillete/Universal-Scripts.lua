@@ -21,7 +21,7 @@ local camlock = false;
 local camlockTarget;
 
 local camlockPart = 'Head';
-local camlockKeybind = 'C';
+local camlockKeybind = 'Right click';
 local camlockTargetKeybind = 'V';
 
 function AddNoitifcations(Title: string, Text: string, Duration: number)
